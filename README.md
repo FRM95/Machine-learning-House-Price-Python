@@ -31,11 +31,11 @@ Execute via command line [defineModel.py](./defineModel.py) to create Gradient B
 ```
 python defineModel.py example_submission.csv
 ```
-Alternative: Before executing [defineModel.py](./defineModel.py) you can download data competition files manually and place them into Kaggle_data directory.
+Alternative: Before executing [defineModel.py](./defineModel.py) you can download data competition files manually and place them into [Kaggle_data](./Kaggle_data) folder.
 
 ### 5. Submit prediction file and get leaderboard public score.
 
-Execute via command line [makeSubmission.py](./makeSubmission.py) to submit your predictions generated at Submissions/example_submission.csv.
+Execute via command line [makeSubmission.py](./makeSubmission.py) to submit your predictions generated at [Submissions](./Submissions) folder.
 ```
 python makeSubmission.py example_submission.csv
 ```
