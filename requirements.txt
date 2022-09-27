@@ -1,0 +1,6 @@
+tabulate~=0.8.10
+kaggle~=1.5.12
+pandas~=1.4.4
+numpy~=1.23.3
+joblib~=1.2.0
+scikit-learn~=1.1.2
